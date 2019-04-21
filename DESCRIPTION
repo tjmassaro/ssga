@@ -1,0 +1,12 @@
+Package: ssga
+Title: Shotgun Stochastic Genetic Algorithm
+Version: 0.0.0.9000
+Authors@R: person("Tyler", "Massaro", email = "tyler.massaro@gmail.com", role = c("aut", "cre"))
+Description: Run the shotgun stochastic genetic algorithm to perform variable subset selection in the context of numerous regression settings.  Support is offered for various regression models, binary vs. continuous dependent variables, and user-defined fitness functions.  
+Depends: R (>= 3.3.1),
+	ggplot2,
+	mvtnorm
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
